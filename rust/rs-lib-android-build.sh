@@ -1,4 +1,5 @@
 # $ANDROID_NDK_HOME is already set and pointing to the Android NDK folder
+ANDROID_NDK_HOME=/User/weixuefeng/Library/Android/sdk/ndk/21.4.7075529
 
 # ENV
 AARCH64_LINKER=$ANDROID_NDK_HOME/toolchains/llvm/prebuilt/linux-x86_64/bin/aarch64-linux-android26-clang
